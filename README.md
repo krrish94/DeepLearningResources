@@ -5,7 +5,8 @@ My collection of Deep Learning Resources
 
 ## Caffe Tutorials
 
-https://www.youtube.com/watch?v=rvMVqPsXL10
+NVIDIA Deep Learning Class https://www.youtube.com/watch?v=rvMVqPsXL10
+Christopher's Blog Post on Caffe http://christopher5106.github.io/deep/learning/2015/09/04/Deep-learning-tutorial-on-Caffe-Technology.html
 
 
 ## Relu Variations
