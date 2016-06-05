@@ -5,22 +5,15 @@ My collection of Deep Learning Resources
 ## Courses
 
 1. [Stanford CS231n: CNNs for Visual Recognition] (http://cs231n.stanford.edu/)
-
 2. [NVIDIA: Deep Learning] (https://developer.nvidia.com/deep-learning-courses)
-
 3. [Stanford: Deep Learning for NLP] (http://cs224d.stanford.edu/)
-
 4. [CMU: Deep Learning] (http://deeplearning.cs.cmu.edu/)
-
 5. [Princeton: Deep Learning] (https://www.cs.princeton.edu/courses/archive/spring16/cos495/)
-
 6. [NYU: Deep Learning (Yann LeCun)] (http://cilvr.cs.nyu.edu/doku.php?id=deeplearning:slides:start)
-
 7. [UVA (Univ of Amsterdam): Deep Learning] (http://uvadlc.github.io/)
-
 8. [UCB: Topics Course on Deep Learning] (https://github.com/joanbruna/stat212b)
-
 9. [Graduate Summer School: Deep Learning, Feature Learning] (https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdzMHAy0aN59oYnLy5vyyTA)
+10. [US Toronto: Deep Learning in Computer Vision] (http://www.cs.utoronto.ca/~fidler/teaching/2015/CSC2523.html)
 
 
 
