@@ -36,7 +36,7 @@ My collection of Deep Learning Resources
 
 
 
-### Tutorials
+# Tutorials
 
 ## Object Detection
 
@@ -62,7 +62,7 @@ Fast RCNN Tutorial @ CVPR 2015 http://tutorial.caffe.berkeleyvision.org/caffe-cv
 
 
 
-### Publications
+# Publications
 
 
 ## Initialization Techniques
