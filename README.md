@@ -35,6 +35,14 @@ My collection of Deep Learning Resources
 15. [Stanford: Unsupervised Feature Learning and Deep Learning] (http://deeplearning.stanford.edu/wiki/index.php/Main_Page)
 
 
+
+### Tutorials
+
+## Object Detection
+
+[Fast R-CNN: Object Detection with Caffe] (http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-detection.pdf)
+
+
 ## Reading Lists
 
 Darthmouth Reading List (Visual Recognition Course) http://www.cs.dartmouth.edu/~lorenzo/teaching/cs189/readinglist.html
@@ -53,6 +61,10 @@ Caffe Tutorial @ CVPR 2015 https://docs.google.com/presentation/d/1UeKXVgRvvxg9O
 Fast RCNN Tutorial @ CVPR 2015 http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-detection.pdf
 
 
+
+### Publications
+
+
 ## Initialization Techniques
 
 BatchNorm Paper (Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift) http://arxiv.org/pdf/1502.03167v3.pdf
@@ -62,3 +74,32 @@ BatchNorm Paper (Batch Normalization: Accelerating Deep Network Training by Redu
 
 Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification
 ( http://arxiv.org/pdf/1502.01852.pdf ) Parametrized RELU
+
+
+## Image Classification
+
+[Imagenet Classification with Deep Convolutional Networks] (https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+
+[Very Deep Convolutional Networks for Large-Scale Image Recognition] (https://arxiv.org/pdf/1409.1556.pdf)
+
+[Deep Residual Learning for Image Recognition] (https://arxiv.org/pdf/1512.03385v1.pdf)
+
+
+## Object Detection
+
+[OverFeat: Integrated Recognition, Localization and Detection Using Convolutional Networks] (https://arxiv.org/pdf/1312.6229.pdf)
+
+[R-CNN Paper - Region based Convolutional Networks for Accurate Object Detection and Segmentation] (https://people.eecs.berkeley.edu/~rbg/papers/pami/rcnn_pami.pdf)
+
+[Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation] (https://people.eecs.berkeley.edu/~rbg/papers/r-cnn-cvpr.pdf)
+
+[Fast R-CNN] (http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf)
+
+[Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks] (http://arxiv.org/pdf/1506.01497v3.pdf)
+
+[You Only Look Once: Unified, Real-Time Object Detection] (http://pjreddie.com/media/files/papers/yolo.pdf)
+
+[What Makes for Effective Region Proposals?] (https://arxiv.org/pdf/1502.05082.pdf) Not exactly a 'deep learning paper', nevertheless gives some insight onto methods that can be used.
+
+[Spatial Transformer Networks] (https://arxiv.org/pdf/1506.02025.pdf)
+
