@@ -103,3 +103,8 @@ Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Cla
 
 [Spatial Transformer Networks] (https://arxiv.org/pdf/1506.02025.pdf)
 
+
+## Other Interesting Papers
+
+[Learning to Learn by Gradient Descent by Gradient Descent](https://arxiv.org/pdf/1606.04474v1.pdf)
+
