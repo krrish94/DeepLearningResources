@@ -38,6 +38,12 @@ My collection of Deep Learning Resources
 
 # Tutorials
 
+
+## Conference Tutorials
+
+[CVPR 2016 Tutorial on the Mathematics of Deep Learning](http://www.vision.jhu.edu/tutorials/CVPR16-Tutorial-Math-Deep-Learning.htm)
+
+
 ## Object Detection
 
 [Fast R-CNN: Object Detection with Caffe] (http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-detection.pdf)
