@@ -39,7 +39,7 @@ My collection of Deep Learning Resources
 # Tutorials
 
 
-## Conference Tutorials
+## Conference Tutorials/Workshops
 
 1. [CVPR 2016 Tutorial on the Mathematics of Deep Learning](http://www.vision.jhu.edu/tutorials/CVPR16-Tutorial-Math-Deep-Learning.htm)
 2. [CVPR 2016: Tutorial on Multi-Modal Machine Learning](https://sites.google.com/site/multiml2016cvpr/)
@@ -47,6 +47,10 @@ My collection of Deep Learning Resources
 4. [CVPR 2016: Tutorial on Recent Image Search Techniques](http://sglab.kaist.ac.kr/~sungeui/image_tutorial/)
 5. [AAAI 2016: A First Course in Deep Learning](https://colflash.cdm.depaul.edu/colflashweb/COLFlashPlayer.aspx?ID=256971)
 6. [CVPR 2016: 3D Deep Learning with Marvin](http://vision.princeton.edu/event/cvpr16/3DDeepLearning/)
+7. [ICML 2016: Deep Learning Workshop](https://sites.google.com/site/dlworkshop16/)
+8. [ICML 2016: Theory of Deep Learning](https://sites.google.com/site/deeplearningtheory/)
+9. [ICML 2016: Neural Nets Back to the Future](https://sites.google.com/site/nnb2tf/)
+10. [ICML 2016: Visualization for Deep Learning](http://icmlviz.github.io/)
 
 
 ## Object Detection
