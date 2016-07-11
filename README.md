@@ -80,6 +80,14 @@ Fast RCNN Tutorial @ CVPR 2015 http://tutorial.caffe.berkeleyvision.org/caffe-cv
 # Publications
 
 
+## Training DeepNets (Optimization)
+
+### Backpropagation
+
+1. [Efficient Backpropagation](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
+2. [Automatic Differentiation in Machine Learning: A Survey](http://arxiv.org/pdf/1502.05767v2.pdf)
+
+
 ## Initialization Techniques
 
 BatchNorm Paper (Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift) http://arxiv.org/pdf/1502.03167v3.pdf
